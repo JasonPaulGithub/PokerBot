@@ -1,6 +1,6 @@
 ** A note from Future Jason **
 The date on this project (at time of writing) was 4 years ago. I am still as passionate about building software but please remember this code was written very early on in my career. I was thinking about deleting this project because companies come to my github and to judge my ability, often forgetting how much 4 years can make a difference!
-There are still many talking points and useful things in this code, despite it's age, so I will settle for this disclaimer indead. Thanks!
+There are still many talking points and useful things in this code, despite it's age, so I will settle for this disclaimer instead. Thanks!
 Jason
 **
 
